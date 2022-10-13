@@ -1,7 +1,11 @@
 team: Tigers
 
 
+<<<<<<< HEAD
 manager: Donaldduck
+=======
+manager: Deborah
+>>>>>>> conflict-1
 coach: Grace
 
 members:
